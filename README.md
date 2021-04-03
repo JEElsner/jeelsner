@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **JEElsner/jeelsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Jonathan Elsner, my pronouns are he/him, and I'm currently studying at the [University of Washington](https://www.washington.edu/). I'm passionate about using data to understand the world around us, and the use of computers to process that information. In my free time, I enjoy hiking, playing board games with my friends, and listening to and playing Jazz.
+
+*Go dawgs!*
+
+#### Social Media
+* LinkedIn: https://linkedin.com/in/jonathan-elsner-9282bb192
+* Instagram: [@jontheprogrammer](https://www.instagram.com/jontheprogrammer/)
