@@ -19,5 +19,5 @@ I'm Jonathan Elsner, my pronouns are he/him, and I'm currently studying at the [
 *Go dawgs!*
 
 #### Social Media
-* LinkedIn: https://linkedin.com/in/jonathan-elsner-9282bb192
+* LinkedIn: https://www.linkedin.com/in/jeelsner/
 * Instagram: [@jontheprogrammer](https://www.instagram.com/jontheprogrammer/)
