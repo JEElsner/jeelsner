@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 I'm Jonathan Elsner; my pronouns are he/him. I studied math at the University of Washington. I'm passionate about using data to understand the world around us, and the use of computers to process that information. In my free time, I enjoy hiking, playing board games with my friends, and listening to and playing the trombone.
 
 *Go dawgs!*
-
-#### Social Media
-* LinkedIn: https://www.linkedin.com/in/jeelsner/
-* Instagram: [@jontheprogrammer](https://www.instagram.com/jontheprogrammer/)
