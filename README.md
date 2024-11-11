@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Jonathan Elsner; my pronouns are he/him. I studied math at the University of Washington. I'm passionate about using data to understand the world around us, and the use of computers to process that information. In my free time, I enjoy hiking, playing board games with my friends, and listening to and playing the trombone.
+I'm Jonathan Elsner; my pronouns are he/him. I study Applied Math at the University of Washington. I'm passionate about using data to understand the world around us, and the use of computers to process that information. In my free time, I enjoy hiking, playing board games with my friends, and listening to and playing the trombone.
 
 *Go dawgs!*
